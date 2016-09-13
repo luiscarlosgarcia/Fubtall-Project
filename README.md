@@ -2,6 +2,7 @@
 PROYECTO FINAL TECNICAS FUNDAMENTALES DE INGIENIERIA DE SOFTWARE
 
 Integrantes del Proyecto:
-Angel Contreras
+Angel Contreras,
 Jean Rodriguez
+y
 Luis Carlos Garcia
